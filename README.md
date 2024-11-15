@@ -1,5 +1,7 @@
 # 🏏 Virat Kohli Career Performance Dashboard  
 
+![dashboard](https://github.com/sujitmahapatra/Virat-Kohli-Dashboard/blob/55f1532ce27c3cb32d2596779ab50c203c7e1c3b/Virat%20Kohli%20Dashboard.png)
+
 ## 🚀 Project Overview  
 This project analyzes **Virat Kohli’s cricketing journey** from August 2008 to July 2022 using **Power BI**. The dashboard provides an interactive and insightful view of Kohli's career stats, highlighting his incredible achievements on the cricket field.
 
@@ -47,16 +49,6 @@ This project analyzes **Virat Kohli’s cricketing journey** from August 2008 to
 1. Kohli’s **consistent performance** is reflected through his high averages and match-winning scores.  
 2. Analysis reveals **peak years** in terms of runs scored and centuries achieved.  
 3. Venue-based performance trends highlight how conditions impact his game.  
-
----
-
-## 📸 Dashboard Screenshots  
-
-![Dashboard Overview](./images/dashboard_overview.png)  
-*Dashboard showcasing metrics like total runs, averages, and performance trends.*  
-
-![Runs by Opponent](./images/runs_by_opponent.png)  
-*Visualization of Kohli's runs scored against each opponent.*
 
 ---
 
